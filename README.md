@@ -6,6 +6,10 @@ Therefore, I like various AI projects, unusual game ideas and just the implement
 - 📖 I decided to list the best programming books I've read. Probably, someone will find it interesting and useful 🎁
   1. *Code Complete* by Steve McConnell
   2. *Object-Oriented Programming in C++* by Robert Lafore 
+- 📕 And a few books that I will read in the future or read at the moment
+  1. *Design Patterns: Elements of Reusable Object-Oriented Software* by The Gang of Four
+  2. Pro Git book by Scott Chacon and Ben Straub
+  3. *Effective Modern C++* by Scott Meyers
 - 📫 If you suddenly have an incredibly tempting offer for me or you want to chat, write to me at dervisdevelopment@gmail.com
 
 <!---
